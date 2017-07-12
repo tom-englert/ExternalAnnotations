@@ -58052,6 +58052,9 @@
   <member name="P:System.Windows.Controls.DataGrid.RowDetailsScrollingConverter">
     <attribute ctor="M:JetBrains.Annotations.NotNullAttribute.#ctor"/>
   </member>
+  <member name="P:System.Windows.Controls.DataGrid.SelectedCells">
+    <attribute ctor="M:JetBrains.Annotations.NotNullAttribute.#ctor"/>
+  </member>
   <member name="P:System.Windows.Controls.DataGridCheckBoxColumn.DefaultEditingElementStyle">
     <attribute ctor="M:JetBrains.Annotations.NotNullAttribute.#ctor"/>
   </member>
